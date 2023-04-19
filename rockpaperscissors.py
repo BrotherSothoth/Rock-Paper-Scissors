@@ -1,5 +1,4 @@
 import random
-var1able=2
 computerscore = 0
 humanscore=0  
 print("Rock paper scissors, lets go.")
